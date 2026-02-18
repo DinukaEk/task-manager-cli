@@ -96,10 +96,6 @@ We welcome contributions! This project is participating in Hacktoberfest 2024.
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
 
-### Good First Issues
-
-Check out issues labeled with `good first issue` and `hacktoberfest` to get started!
-
 ## 📋 Roadmap
 
 Features we'd love to add:
